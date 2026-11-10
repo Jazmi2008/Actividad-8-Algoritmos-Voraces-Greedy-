@@ -1,0 +1,15 @@
+MOCHILA FRACCIONAL - EJEMPLO 1
+Entrada: capacidad 50; A(60,10), B(100,20), C(120,30)
+Salida esperada: A completo, B completo, 20/30 de C; valor total 240.
+
+MOCHILA FRACCIONAL - EJEMPLO 2
+Entrada: capacidad 25; A(80,20), B(100,10), C(120,30)
+Salida esperada: B completo, 15/20 de A; valor total 160.
+
+COBERTURA DE ANTENAS - EJEMPLO 1
+Entrada: casas [1,2,7,11,20,21,30], R=5
+Salida esperada: antenas en 6 y 25; cantidad total 2.
+
+COBERTURA DE ANTENAS - EJEMPLO 2
+Entrada: casas [2,4,8,15,18,22], R=3
+Salida esperada: antenas en 5, 18 y 25; cantidad total 3.
